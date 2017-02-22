@@ -4,7 +4,7 @@
 main()
 {
 	/*Declaracion*/
-	int arregloDeEnteros[10];
+	int arregloDeEnteros[limite];
 	int i;
 
 	/*Llenado de la coleccion*/
