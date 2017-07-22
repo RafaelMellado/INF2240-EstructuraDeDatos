@@ -13,7 +13,7 @@ main()
 		ultValor++;
 	}
 
-	/*Se muestran los valores usando pLibre*/
+	/*Se muestran los valores usando ultValor*/
 	for(i=0; i<=ultValor; i++)
 	{
 		printf("%d", arregloDeValores[i]);
