@@ -183,14 +183,10 @@ struct Zombie* zombieMasPeligroso(struct Zombie **zombie)
         }
     }
     
-    if(mayor!=NULL)
-    {
-        return mayor;
-    }
-    return NULL;
+    return mayor;
 }
 
-int nombreZombieMasLetal(struct NodoCiudad *head)
+int idZombieMasLetal(struct NodoCiudad *head)
 {
     struct NodoCiudad *rec;
     struct Zombie *mayor=NULL;
@@ -204,7 +200,7 @@ int nombreZombieMasLetal(struct NodoCiudad *head)
         }
         rec=rec->sig;
     }
-    if(mayor!=NULL
+    if(mayor!=NULL)
     {
         return mayor->id;
     }
