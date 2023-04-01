@@ -31,6 +31,5 @@ struct Artista *quitarArtistaCancionConMenosReproducciones (struct Spotify *sptf
 }
 
 int main() {
-    struct Cancion
     return 0;
 }
