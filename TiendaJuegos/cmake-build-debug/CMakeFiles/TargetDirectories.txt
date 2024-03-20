@@ -1,0 +1,3 @@
+/Users/rafaelmellado/CLionProjects/TiendaJuegos/cmake-build-debug/CMakeFiles/TiendaJuegos.dir
+/Users/rafaelmellado/CLionProjects/TiendaJuegos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafaelmellado/CLionProjects/TiendaJuegos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
