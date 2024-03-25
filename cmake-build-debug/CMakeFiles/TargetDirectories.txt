@@ -1,0 +1,3 @@
+/Users/rafaelmellado/Library/Mobile Documents/com~apple~CloudDocs/Mis documentos/Docencia/INF2223 - Estructura de datos/Evaluaciones/Fundaciones/cmake-build-debug/CMakeFiles/Fundaciones.dir
+/Users/rafaelmellado/Library/Mobile Documents/com~apple~CloudDocs/Mis documentos/Docencia/INF2223 - Estructura de datos/Evaluaciones/Fundaciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafaelmellado/Library/Mobile Documents/com~apple~CloudDocs/Mis documentos/Docencia/INF2223 - Estructura de datos/Evaluaciones/Fundaciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
