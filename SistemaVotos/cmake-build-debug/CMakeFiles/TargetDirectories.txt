@@ -1,0 +1,3 @@
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/SistemaVotos/cmake-build-debug/CMakeFiles/SistemaVotos.dir
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/SistemaVotos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/SistemaVotos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
