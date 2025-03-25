@@ -1,0 +1,3 @@
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/CLion/Supermercado1-25/cmake-build-debug/CMakeFiles/Supermercado1_25.dir
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/CLion/Supermercado1-25/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/CLion/Supermercado1-25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
