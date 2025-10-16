@@ -1,0 +1,3 @@
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/CLion/1-23/cmake-build-debug/CMakeFiles/1_23.dir
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/CLion/1-23/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafaelmellado/Library/CloudStorage/OneDrive-Personal/Documentos/JetBrain/CLion/1-23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
